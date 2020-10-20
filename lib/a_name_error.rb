@@ -1,3 +1,3 @@
 puts "hello world"
 
-hello_world
+p hello_world
